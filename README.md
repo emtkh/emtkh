@@ -4,8 +4,6 @@
 
 <!-- ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png) -->
 
-
-# 🚀 About Me
 I am a Technical Support Specialist who is passionate about providing exceptional customer service and empowering end-users. I thrive on helping clients overcome technical challenges and ensuring their long-term success. I believe that empathy and relationship building are essential to providing excellent customer support.
 
 I strive to develop trustworthy connections with my clients by carefully listening to their concerns, trying to see things from their perspective, providing my knowledge and expertise, and learning from them as well. This two-way street of learning and teaching is essential to building strong relationships with my clients.
