@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="center">
+    <a href="https://github.com/emiliedionisio"><img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
+</p>
 
 **emtkh/emtkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
