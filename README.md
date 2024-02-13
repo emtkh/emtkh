@@ -1,4 +1,4 @@
-## About Me 👩‍💻
+# About Me 👩‍💻
 
 I am a Technical Support Specialist who is passionate about providing exceptional customer service and empowering end-users. I thrive on helping clients overcome technical challenges and ensuring their long-term success. I believe that empathy and relationship building are essential to providing excellent customer support. 
 
