@@ -1,3 +1,5 @@
+### [HOME](https://emiliedionisio.github.io/) | [PROJECTS](/emProjects.md) | [RESEARCH](/emResearch.md) | <!-- [RESUME ON GITPAGE](/emtechres.md) |  [RESUME PDF VERSION](EmilieDionisio-Res2023&.pdf) |--> [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br /> 
+
 # About Me 👩‍💻
 
 <!-- ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png) -->
