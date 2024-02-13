@@ -1,4 +1,11 @@
-### Hi there 👋
+### About Me 👩‍💻
+
+I am a Technical Support Specialist who is passionate about providing exceptional customer service and empowering end-users. I thrive on helping clients overcome technical challenges and ensuring their long-term success. I believe that empathy and relationship building are essential to providing excellent customer support. 
+
+I strive to develop trustworthy connections with my clients by carefully listening to their concerns, trying to see things from their perspective, providing my knowledge and expertise, and learning from them as well. This two-way street of learning and teaching is essential to building strong relationships with my clients.
+
+I also prioritize training and motivating users to independently tackle similar challenges in the future. I believe that it is important for users to be able to solve their own problems, and I am always happy to provide them with the resources they need to do so.
+
 
 <p align="center">
     <a href="https://github.com/emiliedionisio"><img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,azure,atom" /></a>
